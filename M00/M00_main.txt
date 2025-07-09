@@ -3027,29 +3027,29 @@ Note: In game saves cannot be used after exiting gameplay."
 				"Shortname" = "HEDGE CUTTER"
 			]
 			"CC_Knife_Bowie_01" [
-				"Description" = "Cold Steel Pig Gutter with custom rubber handle and knuckleduster"
-				"Longname" = "BOWIE KNIFE, Pig Gutter"
+				"Description" = "Cold steel pig gutter with custom rubber handle and knuckleduster."
+				"Longname" = "BOWIE KNIFE"
 				"Shortname" = "BOWIE KNIFE"
 			]
 			"CC_Knife_Kitchen_01" [
-				"Description" = "High-quality stainless steel kitchen knife. Excellent for deep cuts"
-				"Longname" = "Stainless Steel kitchen knife"
+				"Description" = "High-quality stainless steel utensil. Excellent for deep cuts"
+				"Longname" = "Kitchen knife"
 				"Shortname" = "KITCHEN KNIFE"
 			]
 			"CC_Knife_Meatcleaver_01" [
-				"Description" = "High-quality stainless steel meatcleaver. Excellent for deep cuts"
-				"Longname" = "Stainless Steel Meat Cleaver"
-				"Shortname" = "MEAT CLEAVER"
+				"Description" = "High-quality stainless steel meat cleaver. Excellent for chopping."
+				"Longname" = "Meat Cleaver"
+				"Shortname" = "CLEAVER"
 			]
 			"CC_Knife_Stiletto_01" [
-				"Description" = "Solingen 420 stainless steel blade with Stag Horn Grip"
-				"Longname" = "Stag Horn Stiletto knife"
+				"Description" = "Solingen 420 stainless steel blade with stag horn grip."
+				"Longname" = "Stiletto"
 				"Shortname" = "STILETTO"
 			]
 			"CC_Knife_Throwing_01" [
-				"Description" = "This Throwing knive is designed to fly and catch your target at its deadly tip"
+				"Description" = "Designed to fly and catch your target at its deadly tip."
 				"Longname" = "THROWING KNIFE"
-				"Shortname" = "THROWER"
+				"Shortname" = "THROWING KNIFE"
 			]
 			"CC_NailFile_01" [
 				"Description" = "Primarily used for filing nails. In the hands of an assassin - it is deadly"
@@ -3057,18 +3057,18 @@ Note: In game saves cannot be used after exiting gameplay."
 				"Shortname" = "NAIL FILE"
 			]
 			"CC_PickAxe_01" [
-				"Description" = "Pick axe is used for breaking rocks and other hard headed obstacles"
+				"Description" = "Used for breaking rocks and other hard headed obstacles."
 				"Longname" = "PICK AXE"
 				"Shortname" = "PICK AXE"
 			]
 			"CC_PickAxe_Used_01" [
-				"Description" = "Covered in blood"
+				"Description" = "Used for breaking rocks and other hard headed obstacles.
+				Covered in blood."
 				"Longname" = "PICK AXE"
 				"Shortname" = "PICK AXE"
 			]
 			"CC_Pitchfork_01" [
-				"Description" = "A carnival pitchfork this is,
--but also a devils weapon"
+				"Description" = "A carnival pitchfork, but also a devil's weapon."
 				"Longname" = "PITCHFORK"
 				"Shortname" = "PITCHFORK"
 			]
@@ -3104,30 +3104,30 @@ Use with caution as bystanders could get hurt"
 				"Shortname" = "CANE SWORD"
 			]
 			"CC_Syringe_Anastetic_01" [
-				"Description" = "Stainless steel, surgical syringe. Contains a non-lethal general Anaesthetic, enough to knock out a grown man."
-				"Longname" = "Syringe Anaesthetic"
-				"Shortname" = "SYRINGE SEDATIVE"
+				"Description" = "Stainless steel surgical syringe. Contains non-lethal general anaesthetic strong enough to sedate anyone injected."
+				"Longname" = "Sedative Syringe"
+				"Shortname" = "SEDATIVE SYRINGE"
 			]
 			"CC_Syringe_Antidote_01" [
 				"Description" = "The antidote to the non-lethal experimental death serum."
-				"Longname" = "Syringe Antidote"
-				"Shortname" = "SYRINGE ANTIDOTE"
+				"Longname" = "Antidote Syringe"
+				"Shortname" = "ANTIDOTE"
 			]
 			"CC_Syringe_HeartAttack_01" [
 				"Description" = "Contains a non-lethal experimental serum, designed to drastically slow the recipient’s heartbeat and bodily functions, resulting in a form of human hibernation."
-				"Longname" = "Syringe Death Serum"
-				"Shortname" = "SYRINGE DEATH SERUM"
+				"Longname" = "Death Serum Syringe"
+				"Shortname" = "DEATH SERUM"
 			]
 			"CC_Syringe_Laxative_01" [
-				"Description" = "Stainless steel, surgical syringe. Contains non-lethal Laxative. Used to stimulate the action of the intestines in eliminating waste from the body. Once administered, 
-a toilet will come in handy."
-				"Longname" = "Syringe Laxative"
+				"Description" = "Stainless steel surgical syringe. Contains non-lethal laxative that stimulates the action of the intestines in eliminating waste from the body.
+				Once administered, a toilet will come in handy."
+				"Longname" = "Laxative Syringe"
 				"Shortname" = "LAXATIVE"
 			]
 			"CC_Syringe_Poison_01" [
-				"Description" = "Stainless steel, surgical syringe. Contains lethal combination of sodium pentothal, pavulon and potassium chloride. Kills instantly."
-				"Longname" = "Syringe Poison"
-				"Shortname" = "SYRINGE POISON"
+				"Description" = "Stainless steel surgical syringe. Contains a combination of sodium pentothal, pavulon and potassium chloride. Kills instantly."
+				"Longname" = "Poison Syringe"
+				"Shortname" = "POISON SYRINGE"
 			]
 			"Container_Beercase_01" [
 				"Description" = "NOT IN USE!!"
@@ -3144,70 +3144,69 @@ a toilet will come in handy."
 				"Shortname" = "BRIEFCASE"
 			]
 			"Container_Briefcase_Afrikaner_01" [
-				"Description" = "Steel reinforced suitcase. Contains valuable DNA and accompanying lab reports. There appears to be enough room inside to place an additional item."
+				"Description" = "Steel reinforced briefcase. Contains valuable DNA and accompanying lab reports. There appears to be enough room inside to place an additional item."
 				"Longname" = "Briefcase containg DNA"
 				"Shortname" = "DNA BRIEFCASE"
 			]
 			"Container_Briefcase_Diamonds_01" [
-				"Description" = "Steel reinforced suitcase containing diamonds. There appears to be enough room inside to place an additional item."
-				"Longname" = "Briefcase containing diamonds"
-				"Shortname" = "DIAMONDS BRIEFCASE"
+				"Description" = "Steel reinforced briefcase. Contains a large quantity of diamonds. There appears to be enough room inside to place an additional item."
+				"Longname" = "Briefcase with Diamonds"
+				"Shortname" = "PAYMENT BRIEFCASE"
 			]
 			"Container_Briefcase_Sheik_01" [
-				"Description" = "Standard business style briefcase. Contains a large quantity of diamonds. Sheik Al-Khalifa, intends to exchange it for valuable DNA material. There appears to be enough room inside to place an additional item."
-				"Longname" = "Briefcase containg Diamonds"
+				"Description" = "Standard business briefcase. Contains a large quantity of diamonds. Sheikh Al-Khalifa intends to exchange it for valuable DNA material. There appears to be enough room inside to place an additional item."
+				"Longname" = "Briefcase with Diamonds"
 				"Shortname" = "PAYMENT BRIEFCASE"
 			]
 			"Container_BucketChicken_01" [
-				"Description" = "The crocodiles need to be fed and among other things they like chicken, this bucket is full of chicken...."
+				"Description" = "Crocodiles are hungry animals."
 				"LongName" = "CHICKEN BUCKET"
 				"ShortName" = "CHICKEN BUCKET"
 			]
 			"Container_Cake_01" [
-				"Description" = "Sugar-glazed, walnut and whiskey cake. One of Skip Muldoon's favorites. Even though it contains whiskey, it can still be spiked."
+				"Description" = "Sugar, walnut and whiskey. One of Skip Muldoon's favorites. The excess sweetness will cover the taste of poison."
 				"Longname" = "Cake"
 				"Shortname" = "CAKE"
 			]
 			"Container_CrateBakingSoda_01" [
-				"Description" = "A crate of baking soda. You can hide a gun in this crate."
-				"LongName" = "BAKINGSODA CRATE"
-				"ShortName" = "BAKINGSODA CRATE"
+				"Description" = "An inconspicuous crate of baking soda. No one would notice if a gun was put inside."
+				"LongName" = "BAKING SODA CRATE"
+				"ShortName" = "SODA CRATE"
 			]
 			"Container_CrateCatering_01" [
-				"Description" = "These crates are being delivered to the house by the caterer.  It could provide a possible opportunity to get a firearm past the security, and inside the house."
+				"Description" = "These crates are being delivered to the house by the caterer. A gun could be easily hidden inside."
 				"LongName" = "CATERING CRATE"
 				"ShortName" = "CATERING CRATE"
 			]
 			"Container_CrateDonuts_01" [
-				"Description" = "The FBI agents here have developed a certain affinity for donuts. The glazing should cover the taste of poison."
+				"Description" = "The FBI agents here have developed a certain affinity for donuts. The glazing will cover the taste of poison."
 				"LongName" = "A BOX OF DONUTS"
 				"ShortName" = "DONUTS"
 			]
 			"Container_CrateKitchen_01" [
-				"Description" = "Full of lobsters. A note inside asks Allan to please add garnish."
+				"Description" = "A crate full of lobsters. A note inside asks Allan to please add garnish."
 				"LongName" = "KITCHEN CRATE"
 				"ShortName" = "KITCHEN CRATE"
 			]
 			"Container_Giftbox_01" [
-				"Description" = "Useful for hiding items"
+				"Description" = "Useful for surprising people with hidden items."
 				"LongName" = "WEDDING GIFT"
 				"ShortName" = "GIFT"
 			]
 			"Container_Rifle_01" [
-				"Description" = "This Rifle Case is made for the FN-2000 assault rifle."
+				"Description" = "A specially designed custom suitcase made to discreetly carry the FN-2000 assault rifle."
 				"LongName" = "RIFLE SUITCASE"
-				"ShortName" = "RIFLE SUITCASE"
+				"ShortName" = "RIFLE CASE"
 			]
 			"Container_RifleFlightcase_01" [
-				"Description" = "This is a Flight Case to keep and protect your precious Sniper Rifle.
-It also makes you look more discreet when walking the streets with your Sniper Rifle."
-				"LongName" = "RIFLE SUITCASE"
-				"ShortName" = "RIFLE SUITCASE"
+				"Description" = "A specially designed custom briefcase made to discreetly carry a Sniper Rifle."
+				"LongName" = "SNIPER SUITCASE"
+				"ShortName" = "SNIPER CASE"
 			]
 			"Container_SuitcaseSniper_01" [
-				"Description" = "This Rifle Case is made specially to carry the W2000 Sniper Rifle."
-				"Longname" = "RIFLE CASE"
-				"Shortname" = "RIFLE CASE"
+				"Description" = "A specially designed custom suitcase made to discreetly carry the W2000 Sniper Rifle."
+				"Longname" = "SNIPER SUITCASE"
+				"Shortname" = "SNIPER CASE"
 			]
 			"Container_SuitcaseWoman_01" [
 				"Description" = "Tourist suit case"
@@ -3231,8 +3230,8 @@ It also makes you look more discreet when walking the streets with your Sniper R
 			]
 			"Custom_AssaultRifle" [
 				"AmmoArmorPiercing" = "ARMOR PIERCING"
-				"AmmoLowVelocity" = "LOW VELOCITY"
-				"Caliber" = "CUSTOM AMMO"
+				"AmmoLowVelocity" = "SUBSONIC"
+				"Caliber" = "CUSTOM"
 				"Details" [
 				]
 				"Length" = "838 mm."
@@ -3245,7 +3244,7 @@ It also makes you look more discreet when walking the streets with your Sniper R
 			"Custom_Pistol" [
 				"AmmoLowVelocity" = "SUBSONIC"
 				"AmmoMagnum" = "MAGNUM"
-				"Caliber" = "CUSTOM AMMO"
+				"Caliber" = "CUSTOM"
 				"Details" [
 				]
 				"Length" = "216 mm."
@@ -3256,13 +3255,13 @@ It also makes you look more discreet when walking the streets with your Sniper R
 				"Weight" = "1076 g."
 			]
 			"Custom_Pistol_PICKUP" [
-				"AmmoLowVelocity" = "LOW VELOCITY"
+				"AmmoLowVelocity" = "SUBSONIC"
 				"AmmoMagnum" = "MAGNUM"
-				"Caliber" = "CUSTOM AMMO"
+				"Caliber" = "CUSTOM"
 				"Details" [
 				]
 				"Length" = "216 mm."
-				"Longname" = "DUAL SILVERBALLER"
+				"Longname" = "SILVERBALLERS"
 				"Shortname" = "SILVERBALLERS"
 				"Type" = "SEMI-AUTOMATIC PISTOLS"
 				"UpgradeName" = "DUAL HANDGUNS"
@@ -3271,7 +3270,7 @@ It also makes you look more discreet when walking the streets with your Sniper R
 			"Custom_ShotGun" [
 				"AmmoFlechetteSlugs" = "FLECHETTE"
 				"AmmoGaugesSlugs" = "12 GAUGE"
-				"Caliber" = "CUSTOM SLUGS"
+				"Caliber" = "CUSTOM"
 				"Details" [
 				]
 				"Length" = "1014 MM."
@@ -3284,7 +3283,7 @@ It also makes you look more discreet when walking the streets with your Sniper R
 			"Custom_SniperRifle" [
 				"AmmoArmorPiercing" = "ARMOR PIERCING"
 				"AmmoLowVelocity" = "SUBSONIC"
-				"Caliber" = "CUSTOM AMMO"
+				"Caliber" = "CUSTOM"
 				"Details" [
 				]
 				"Length" = "905 MM."
@@ -3295,14 +3294,14 @@ It also makes you look more discreet when walking the streets with your Sniper R
 				"Weight" = "6950 G."
 			]
 			"Custom_SubMachineGun" [
-				"AmmoLowVelocity" = "LOW VELOCITY"
+				"AmmoLowVelocity" = "SUBSONIC"
 				"AmmoMagnum" = "MAGNUM"
 				"Caliber" = "SMG AMMO"
 				"Details" [
 				]
 				"Length" = "550 MM."
-				"Longname" = "SMG TACTICAL"
-				"Shortname" = "SMG TACTICAL"
+				"Longname" = "TACTICAL MP5"
+				"Shortname" = "TACTICAL MP5"
 				"Type" = "SUBMACHINE GUN"
 				"UpgradeName" = "SUBMACHINE GUN"
 				"Weight" = "2880 G."
@@ -3417,7 +3416,7 @@ taste."
 				"Shortname" = "SAUSAGE"
 			]
 			"Gun_Albino_01" [
-				"Caliber" = "Magnum Ammo"
+				"Caliber" = "Magnum"
 				"Length" = "216 mm."
 				"Longname" = "Custom 1911"
 				"Shortname" = "Custom 1911"
@@ -3435,7 +3434,7 @@ taste."
 				"Weight" = "625 g"
 			]
 			"Gun_DesertEagle_01" [
-				"Caliber" = "Magnum Ammo"
+				"Caliber" = "Magnum"
 				"Length" = "260 mm."
 				"Longname" = "DESERT EAGLE"
 				"Shortname" = "DESERT EAGLE"
@@ -3443,7 +3442,7 @@ taste."
 				"Weight" = "1715 g."
 			]
 			"Gun_HKusp_01" [
-				"Caliber" = ".45ACP Ammo"
+				"Caliber" = ".45ACP"
 				"Details" [
 				]
 				"Length" = "194 mm."
@@ -3453,7 +3452,7 @@ taste."
 				"Weight" = "720 g."
 			]
 			"Gun_HKusp_Silenced_01" [
-				"Caliber" = ".45ACP Ammo"
+				"Caliber" = ".45ACP"
 				"Details" [
 				]
 				"Length" = "289 mm."
@@ -3463,7 +3462,7 @@ taste."
 				"Weight" = "810 g."
 			]
 			"Gun_Mauser_01" [
-				"Caliber" = "Mauser Ammo"
+				"Caliber" = "Mauser"
 				"Details" [
 				]
 				"Length" = "312 mm."
@@ -3969,7 +3968,7 @@ explosive material to say the least."
 				"Weight" = "2721 g."
 			]
 			"Rifle_Airrifle_Tranquilizer_01" [
-				"Caliber" = "Darts/Tranquilizer"
+				"Caliber" = "Tranquilizer Darts"
 				"Details" [
 				]
 				"Length" = "1066 mm."
@@ -3979,7 +3978,7 @@ explosive material to say the least."
 				"Weight" = "2721 g."
 			]
 			"Rifle_Enfield_01" [
-				"Caliber" = "Rifle Ammo"
+				"Caliber" = "Rifle"
 				"Details" [
 				]
 				"Length" = "1132 mm."
@@ -3989,7 +3988,7 @@ explosive material to say the least."
 				"Weight" = "3960 g."
 			]
 			"Rifle_FN2000_01" [
-				"Caliber" = "Rifle Ammo"
+				"Caliber" = "Rifle"
 				"Details" [
 				]
 				"Length" = "694 mm."
@@ -3999,7 +3998,7 @@ explosive material to say the least."
 				"Weight" = "3600 g."
 			]
 			"Rifle_M14_01" [
-				"Caliber" = "Rifle Ammo"
+				"Caliber" = "Rifle"
 				"Details" [
 				]
 				"Length" = "1120 mm."
@@ -4009,7 +4008,7 @@ explosive material to say the least."
 				"Weight" = "5100 g."
 			]
 			"Rifle_Remington_01" [
-				"Caliber" = "Shotgun Ammo"
+				"Caliber" = "Shotgun"
 				"Details" [
 				]
 				"Length" = "1130 mm."
@@ -4019,7 +4018,7 @@ explosive material to say the least."
 				"Weight" = "3500 g."
 			]
 			"Rifle_SG552_01" [
-				"Caliber" = "Rifle Ammo"
+				"Caliber" = "Rifle"
 				"Details" [
 				]
 				"Length" = "730 mm."
