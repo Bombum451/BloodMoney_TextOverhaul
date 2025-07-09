@@ -2,7 +2,7 @@
 	"AllLevels" [
 		"Actions" [
 			"ActionKill" = "Action kill"
-			"Activate Firealarm" = "Activate Firealarm"
+			"Activate Firealarm" = "Activate Fire alarm"
 			"BreakUtilBox" = "Break utility box"
 			"CallElevator" = "Call elevator"
 			"Cancel" = "Cancel"
@@ -11,22 +11,22 @@
 			"CloseDoor" = "Close Door"
 			"Combine" = "Combine"
 			"ConcealWeapon" = "Conceal"
-			"DisposeBody" = "Dispose of Body"
-			"DragBody" = "Drag Body"
-			"DropBody" = "Drop Body"
+			"DisposeBody" = "Dispose"
+			"DragBody" = "Drag"
+			"DropBody" = "Drop"
 			"Escape" = "Escape"
-			"ExitCloset" = "Exit Closet"
-			"ExitHideout" = "Exit Hideout"
-			"ExitKeyhole" = "Exit Keyhole"
+			"ExitCloset" = "Exit"
+			"ExitHideout" = "Exit"
+			"ExitKeyhole" = "Exit"
 			"Grab" = "Grab"
 			"HideBodyTable" = "Hide Body"
 			"HideInBed" = "Hide In Bed"
 			"HideInCloset" = "Enter Closet"
 			"HideWeapon" = "Hide Weapon"
 			"HumanShield" = "Human Shield"
-			"HumanShieldRelease" = "Knock Out Victim"
+			"HumanShieldRelease" = "Release Hostage"
 			"LockDoor" = "Lock Door"
-			"LookKeyhole" = "Look KeyHole"
+			"LookKeyhole" = "Look Through KeyHole"
 			"Open Lid" = "Open Lid"
 			"OpenDoor" = "Open Door"
 			"OperateDoor" = "Operate Door"
@@ -57,7 +57,7 @@
 		]
 		"ClothNames" [
 			"Afrikaaner" = "Hendrik Schmutz"
-			"BodyguardSheik" = "Sheik's Bodyguard"
+			"BodyguardSheik" = "Sheikh's Bodyguard"
 			"CasinoStaff" = "Casino Staff"
 			"GuardCasino" = "Casino Security"
 			"M00_Chemist" = "Chemist"
@@ -80,7 +80,7 @@
 			"M03_Guard" = "Guard"
 			"M03_Worker" = "Worker"
 			"M04_GuardHospitalMale" = "Clinic Security"
-			"M04_Patient" = "Patient's robes"
+			"M04_Patient" = "Patient"
 			"M04_PatientBodyguard" = "Patient's bodyguard"
 			"M04_Therapist" = "Therapist"
 			"M04_Warden" = "Orderly"
@@ -229,14 +229,14 @@ NOTORIETY SIGNIFICANTLY
 				"AquireNewId" = "Acquire new identity"
 				"BribeCiv" = "Bribe Civilians"
 				"BribeCivBox" = "Locals who’ve seen or heard you will grow suddenly forgetful.  Memories will fade.  Potential witnesses will think twice about speaking up.  
-Bribing civilians lowers your notoriety a little."
+"
 				"BribeLocPol" = "Bribe local police"
 				"BribePoliceBox" = "The local chief of police will see to it that any incriminating evidence is accidentally misplaced.  The entire investigation will become choked with red tape.  
-Bribing police reduces your notoriety significantly."
+"
 				"Bribes" = "Bribes"
 				"LowerNot" = "Lower your notoriety"
 				"NewIdentityBox" = "Journalists will be silenced.  Government and law enforcement records will be wiped.  Witnesses will disappear.  For all practical purposes you will simply cease to exist.  
-Acquiring a new identity will reset your notoriety rating."
+"
 			]
 			"BribesHeader" = "BRIBES"
 			"BribesSubHeader" = "LOWER YOUR NOTORIETY"
@@ -779,7 +779,7 @@ Laëtitia Wajnapel"
 -Notoriety In-Effect
 -Evidence Impacts Rating"
 				"LoadRequiresSignin" = "You are not signed into a profile. In order to load a career you will need to be signed into a profile."
-				"NonConcealableWeaponDialog" = "To avoid too much public attention, your non concealable %s will be placed in a container at the premises by the Agency.
+				"NonConcealableWeaponDialog" = "To avoid too much public attention, your non-concealable %s will be placed in a container at the premises by the Agency.
 Find the exact location by using your map and locate the ICA icon."
 				"Normal_PC" = "-Seven Saves Permitted
 -Full AI Behaviour
@@ -2978,48 +2978,51 @@ Note: In game saves cannot be used after exiting gameplay."
 				"Shortname" = "Sniper ammo"
 			]
 			"CC_BaseballBat_01" [
-				"Description" = "SLUGGER Baseball Bat 
--The perfect hit"
+				"Description" = "SLUGGER - for the perfect hit."
 				"Longname" = "Slugger Baseball Bat"
 				"Shortname" = "BASEBALL BAT"
 			]
 			"CC_BaseballBat_Used_01" [
-				"Description" = "Covered in blood"
+				"Description" = "SLUGGER - for the perfect hit.
+				Covered in blood."
 				"Longname" = "Slugger Baseball Bat"
 				"Shortname" = "BASEBALL BAT"
 			]
 			"CC_FiberWire_01" [
-				"Description" = "Silent assassin Fiber Wire"
+				"Description" = "The silent assassin's tool of choice."
 				"Longname" = "Fiber Wire"
 				"Shortname" = "FIBER WIRE"
 			]
 			"CC_FireExtinguisher_01" [
-				"Description" = "Emergency use only. Can knock down large obstacles"
+				"Description" = "Can be used to knock down large obstacles in emergencies."
 				"Longname" = "FIRE EXTINGUISHER"
 				"Shortname" = "FIRE EXTINGUISHER"
 			]
 			"CC_FireExtinguisher_Used_01" [
-				"Description" = "Covered in blood"
+				"Description" = "Can be used to knock down large obstacles in emergencies.
+				Covered in blood."
 				"Longname" = "FIRE EXTINGUISHER"
 				"Shortname" = "FIRE EXTINGUISHER"
 			]
 			"CC_Hammer_01" [
-				"Description" = "Carbon Steel Hammer with rubber grip for perfect handling when things get messy"
+				"Description" = "Carbon steel, rubber grip. Perfect handling for when things get messy."
 				"Longname" = "Claw Hammer"
 				"Shortname" = "HAMMER"
 			]
 			"CC_Hammer_Used_01" [
-				"Description" = "Covered in blood"
+				"Description" = "Carbon steel, rubber grip. Perfect handling for when things get messy.
+				Covered in blood."
 				"Longname" = "Claw Hammer"
 				"Shortname" = "HAMMER"
 			]
 			"CC_HedgeCutter_01" [
-				"Description" = "Primarily used for shaping the hedges. The scissor-like blades are extremely sharp and can be deadly"
+				"Description" = "Extremely sharp, scissor-like blades used primarily for cutting away at the unwanted parts of bushes. The hands of an assassin can find other applications."
 				"Longname" = "HEDGE CUTTER"
 				"Shortname" = "HEDGE CUTTER"
 			]
 			"CC_HedgeCutter_Used_01" [
-				"Description" = "Covered in blood"
+				"Description" = "Extremely sharp, scissor-like blades used primarily for cutting away at the unwanted parts of bushes. The hands of an assassin can find other applications.
+				Covered in blood."
 				"Longname" = "HEDGE CUTTER"
 				"Shortname" = "HEDGE CUTTER"
 			]
@@ -3132,7 +3135,7 @@ a toilet will come in handy."
 				"Shortname" = "BEERCASE"
 			]
 			"Container_Biblehollow_01" [
-				"Description" = "This bible looks like a oridnary bible but it is not - it is actually hollow and therefore it is possible to place a bomb inside it...."
+				"Description" = "An ordinary-looking, but hollow Bible. There is enough space to plant a bomb inside."
 				"Longname" = "HOLLOW BIBLE"
 				"Shortname" = "HOLLOW BIBLE"
 			]
@@ -3158,7 +3161,7 @@ a toilet will come in handy."
 			"Container_BucketChicken_01" [
 				"Description" = "The crocodiles need to be fed and among other things they like chicken, this bucket is full of chicken...."
 				"LongName" = "CHICKEN BUCKET"
-				"ShortName" = "BUCKET CHICKEN"
+				"ShortName" = "CHICKEN BUCKET"
 			]
 			"Container_Cake_01" [
 				"Description" = "Sugar-glazed, walnut and whiskey cake. One of Skip Muldoon's favorites. Even though it contains whiskey, it can still be spiked."
@@ -3176,12 +3179,12 @@ a toilet will come in handy."
 				"ShortName" = "CATERING CRATE"
 			]
 			"Container_CrateDonuts_01" [
-				"Description" = "FBI agents have developed a certain taste for Donuts. That can be fatal if they are poisoned!!"
+				"Description" = "The FBI agents here have developed a certain affinity for donuts. The glazing should cover the taste of poison."
 				"LongName" = "A BOX OF DONUTS"
 				"ShortName" = "DONUTS"
 			]
 			"Container_CrateKitchen_01" [
-				"Description" = "Allan please add details"
+				"Description" = "Full of lobsters. A note inside asks Allan to please add garnish."
 				"LongName" = "KITCHEN CRATE"
 				"ShortName" = "KITCHEN CRATE"
 			]
@@ -3240,7 +3243,7 @@ It also makes you look more discreet when walking the streets with your Sniper R
 				"Weight" = "3000 g."
 			]
 			"Custom_Pistol" [
-				"AmmoLowVelocity" = "LOW VELOCITY"
+				"AmmoLowVelocity" = "SUBSONIC"
 				"AmmoMagnum" = "MAGNUM"
 				"Caliber" = "CUSTOM AMMO"
 				"Details" [
@@ -3280,7 +3283,7 @@ It also makes you look more discreet when walking the streets with your Sniper R
 			]
 			"Custom_SniperRifle" [
 				"AmmoArmorPiercing" = "ARMOR PIERCING"
-				"AmmoLowVelocity" = "LOW VELOCITY"
+				"AmmoLowVelocity" = "SUBSONIC"
 				"Caliber" = "CUSTOM AMMO"
 				"Details" [
 				]
@@ -3305,18 +3308,18 @@ It also makes you look more discreet when walking the streets with your Sniper R
 				"Weight" = "2880 G."
 			]
 			"Equip_Adrenaline_01" [
-				"Description" = "The Adrenaline quickly fills your body and gives you a short boost of health. But only to leave your body with just enough health to keep you alive."
-				"Longname" = "ADRENALINE SHOT"
+				"Description" = "Quickly fills your body upon injection, temporarily raising health by 25% for approximately 2 minutes. Not much, but it may be the difference between life and death."
+				"Longname" = "ADRENALINE SYRINGE"
 				"Shortname" = "ADRENALINE"
 			]
 			"Equip_Binoculars_01" [
-				"Description" = "Waterproof and shock resistant binoculars with a 8x45 zoom to extend the eyes of a killer"
+				"Description" = "Waterproof, shock resistant binoculars with a 8x45 zoom to extend the eyes of a killer."
 				"Longname" = "Binoculars"
 				"Shortname" = "BINOCULARS"
 			]
 			"Equip_Bomb_01" [
-				"Description" = "This is a Non-Detectable bomb. It can be detonated by remote within 25 meters."
-				"Longname" = "REMOTECONTROLED UNDETECTABLE ANTI-PERSONEL MINE"
+				"Description" = "Invisible to metal detectors. Can be detonated by remote at a range of 25 meters."
+				"Longname" = "REMOTE UNDETECTABLE ANTI-PERSONNEL MINE"
 				"Shortname" = "RU-AP MINE"
 			]
 			"Equip_BombRemote_01" [
@@ -3325,12 +3328,12 @@ It also makes you look more discreet when walking the streets with your Sniper R
 				"Shortname" = "DETONATOR"
 			]
 			"Equip_ImprovedBinocularOptics" [
-				"Description" = "Improved binoculars with extended zoom and distance counter"
+				"Description" = "Improved binoculars with extended zoom and rangefinder."
 				"Longname" = "7x50 Binoculars"
 				"Shortname" = "BINOCULARS"
 			]
 			"Equip_PainKillers_01" [
-				"Description" = "These experimental drugs contain a hazardous amount of anaesthetic and are undergoing test trials to pass as a surgery aid on race horces. Will allow you to endure more damage."
+				"Description" = "These experimental drugs contain a hazardous amount of anaesthetic and are currently undergoing test trials to pass as surgery aid on race horses. Immediately restore 50% health."
 				"Longname" = "PAIN KILLERS"
 				"Shortname" = "PAIN KILLERS"
 			]
@@ -3528,12 +3531,12 @@ taste."
 			]
 			"Item_BottleEther_01" [
 				"Description" = "Ether is an anaesthetic used by many vets. A few wiffs of this will knock out animals of any shape and size."
-				"Longname" = "A bottle of ether"
+				"Longname" = "bottle of ether"
 				"Shortname" = "BOTTLE OF ETHER"
 			]
 			"Item_BottleFireLighter_01" [
-				"Description" = "This is highly flammable fluid. Spilled on a barbecue grill can have fatal consequences when set on fire..."
-				"Longname" = "A bottle of flammable lighter fluid."
+				"Description" = "Highly flammable fluid. Contact with fire will result in a terrible accident."
+				"Longname" = "Lighter fluid bottle"
 				"Shortname" = "LIGHTER FLUID"
 			]
 			"Item_BrothelPass_01" [
@@ -3796,9 +3799,9 @@ This keycard opens room 807."
 				"Party Mask" = "Party Mask"
 			]
 			"Item_Money_01" [
-				"Description" = "This wad of money contains the respectable amount of 50000 US dollars."
-				"Longname" = "Money"
-				"Shortname" = "Money"
+				"Description" = "50,000 US dollars."
+				"Longname" = "Cash"
+				"Shortname" = "Cash"
 			]
 			"Item_Necklace_01" [
 				"Description" = "A necklace containing microfilm hidden inside the jewellery"
@@ -3860,7 +3863,7 @@ This keycard opens room 807."
 				"Shortname" = "SHEIK'S PHONENUMBER"
 			]
 			"Item_PhotoBoy_01" [
-				"Description" = "A young boy. The Client wants you to show this photo to the target. It should be \"...The last thing he sees!\""
+				"Description" = "A photo of a young boy. The Client has requested you show it to the Target. It should be \"the last thing he sees\"."
 				"Longname" = "Photo of a young boy"
 				"Shortname" = "PHOTO"
 			]
@@ -4119,10 +4122,10 @@ snapshots of scantily clad ladies."
 			"Icons" [
 				"Animal" = "ANIMAL"
 				"Elevator" = "ELEVATOR"
-				"Enemy" = "ENEMY"
+				"Enemy" = "HOSTILE"
 				"ExitPoint" = "EXIT LOCATION"
 				"GuardQuarters" = "GUARD QUARTERS"
-				"Hitman" = "AGENT 47 (YOU)"
+				"Hitman" = "47"
 				"ICA" = "ICA SUPPLIES"
 				"InterestPoint" = "INTEREST POINT"
 				"Ladder" = "LADDER"
@@ -5892,7 +5895,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} MORE SILENT"
 					"Info3" = "{bullet_square} EXCLUDES OTHER AMMO"
 					"Info4"
-					"Name" = "LOW VELOCITY AMMO"
+					"Name" = "SUBSONIC AMMO"
 				]
 				"BeltFeeding" [
 					"Info1" = "{bullet_square} 100 ROUNDS"
@@ -5909,22 +5912,22 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Name" = "BUTT STOCK"
 				]
 				"ClipX2" [
-					"Info1" = "{bullet_square} 1 EXTRA CLIP"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 1 EXTRA MAGAZINE"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
 				]
 				"ClipX3" [
-					"Info1" = "{bullet_square} 2 EXTRA CLIPS"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 2 EXTRA MAGAZINES"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
 				]
 				"ClipX4" [
-					"Info1" = "{bullet_square} 3 EXTRA CLIPS"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 3 EXTRA MAGAZINES"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
@@ -5938,7 +5941,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				]
 				"LaserSight" [
 					"Info1" = "{bullet_square} LASER AIM"
-					"Info2" = "{bullet_square} MEDIUM PRECISE"
+					"Info2" = "{bullet_square} MEDIUM PRECISION"
 					"Info3"
 					"Info4"
 					"Name" = "LASER SIGHT"
@@ -5951,8 +5954,8 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Name" = "PISTOL GRIP"
 				]
 				"RailMount" [
-					"Info1" = "{bullet_square} TO MOUNT SCOPES"
-					"Info2"
+					"Info1" = "{bullet_square} NEEDED FOR SCOPE"
+					"Info2" = "{bullet_square} NEEDED FOR RED DOT SIGHT"
 					"Info3"
 					"Info4"
 					"Name" = "RAIL MOUNT"
@@ -5960,7 +5963,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"RedDotSight" [
 					"Info1" = "{bullet_square} SMALL ZOOM"
 					"Info2" = "{bullet_square} HIGH PRECISION"
-					"Info3" = "{bullet_square} REQUIRES RAILMOUNT"
+					"Info3" = "{bullet_square} REQUIRES RAIL MOUNT"
 					"Info4" = "{bullet_square} EXCLUDES SCOPE"
 					"Name" = "RED DOT SIGHT"
 				]
@@ -5974,23 +5977,23 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"ScopeType1" [
 					"Info1" = "{bullet_square} STANDARD SCOPE"
 					"Info2" = "{bullet_square} EXTREME PRECISION"
-					"Info3" = "{bullet_square} REQUIRES RAILMOUNT"
+					"Info3" = "{bullet_square} REQUIRES RAIL MOUNT"
 					"Info4" = "{bullet_square} EXCLUDES RED DOT SIGHT"
-					"Name" = "SCOPE TYPE 1"
+					"Name" = "SCOPE"
 				]
 				"Silencer1" [
-					"Info1" = "{bullet_square} MEDIUM SILENCED"
-					"Info2" = "{bullet_square} EXCLUDES SILENCER TYPE2"
+					"Info1" = "{bullet_square} MOSTLY SILENCED"
+					"Info2" = "{bullet_square} EXCLUDES SILENCER MK2"
 					"Info3"
 					"Info4"
-					"Name" = "SILENCER TYPE 1"
+					"Name" = "SILENCER MK1"
 				]
 				"Silencer2" [
-					"Info1" = "{bullet_square} MAX SILENCED"
-					"Info2" = "{bullet_square} EXCLUDES SILENCER TYPE1"
+					"Info1" = "{bullet_square} FULLY SILENCED"
+					"Info2" = "{bullet_square} EXCLUDES SILENCER MK1"
 					"Info3"
 					"Info4"
-					"Name" = "SILENCER TYPE 2"
+					"Name" = "SILENCER MK2"
 				]
 			]
 			"Custom_Pistol" [
@@ -5999,7 +6002,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} LESS RECOIL"
 					"Info3" = "{bullet_square} EXCLUDES OTHER AMMO"
 					"Info4"
-					"Name" = "LOW VELOCITY AMMO"
+					"Name" = "SUBSONIC AMMO"
 				]
 				"AmmoMagnum" [
 					"Info1" = "{bullet_square} PENETRATES DOORS"
@@ -6009,22 +6012,22 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Name" = "MAGNUM AMMO"
 				]
 				"ClipX2" [
-					"Info1" = "{bullet_square} 1 EXTRA CLIP"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 1 EXTRA MAGAZINE"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
 				]
 				"ClipX3" [
-					"Info1" = "{bullet_square} 2 EXTRA CLIPS"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 2 EXTRA MAGAZINES"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
 				]
 				"ClipX4" [
-					"Info1" = "{bullet_square} 3 EXTRA CLIPS"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 3 EXTRA MAGAZINES"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
@@ -6034,11 +6037,11 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} DOUBLE CAPACITY"
 					"Info3"
 					"Info4"
-					"Name" = "LARGE CLIP"
+					"Name" = "BIGGER MAGAZINE"
 				]
 				"DualAction" [
-					"Info1" = "{bullet_square} TWO GUNS"
-					"Info2" = "{bullet_square} TWICE THE FUN"
+					"Info1" = "{bullet_square} DOUBLE THE GUNS"
+					"Info2" = "{bullet_square} DOUBLE THE FUN"
 					"Info3" = "{bullet_square} MORE RECOIL"
 					"Info4"
 					"Name" = "DUAL ACTION"
@@ -6051,22 +6054,22 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Name" = "FULL AUTO FIRE"
 				]
 				"LaserSight" [
-					"Info1" = "{bullet_square} LASER AIM"
-					"Info2" = "{bullet_square} MEDIUM PRECISE"
+					"Info1" "{bullet_square} MEDIUM PRECISION"
+					"Info2"
 					"Info3"
 					"Info4"
 					"Name" = "LASER SIGHT"
 				]
 				"LongSlide" [
-					"Info1" = "{bullet_square} BETTER PRECISION"
+					"Info1" = "{bullet_square} HIGHER PRECISION"
 					"Info2" = "{bullet_square} LESS RECOIL"
 					"Info3" = "{bullet_square} EXCLUDES SILENCER"
 					"Info4"
 					"Name" = "LONG SLIDE"
 				]
 				"RailMount" [
-					"Info1" = "{bullet_square} FOR SCOPES"
-					"Info2"
+					"Info1" = "{bullet_square} NEEDED FOR SCOPE"
+					"Info2" = "{bullet_square} NEEDED FOR RED DOT SIGHT"
 					"Info3"
 					"Info4"
 					"Name" = "RAIL MOUNT"
@@ -6083,21 +6086,21 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} EXTREME PRECISION"
 					"Info3" = "{bullet_square} REQUIRES RAIL MOUNT"
 					"Info4" = "{bullet_square} EXCLUDES RED DOT SIGHT"
-					"Name" = "SCOPE TYPE 1"
+					"Name" = "SCOPE	"
 				]
 				"Silencer1" [
-					"Info1" = "{bullet_square} MEDIUM SILENCED"
-					"Info2" = "{bullet_square} EXCLUDES SILENCER TYPE2"
+					"Info1" = "{bullet_square} MOSTLY SILENCED"
+					"Info2" = "{bullet_square} EXCLUDES SILENCER MK2"
 					"Info3" = "{bullet_square} EXCLUDES LONG SLIDE"
 					"Info4"
-					"Name" = "SILENCER TYPE 1"
+					"Name" = "SILENCER MK1"
 				]
 				"Silencer2" [
-					"Info1" = "{bullet_square} MAX SILENCED"
-					"Info2" = "{bullet_square} EXCLUDES SILENCER TYPE1"
+					"Info1" = "{bullet_square} FULLY SILENCED"
+					"Info2" = "{bullet_square} EXCLUDES SILENCER MK1"
 					"Info3" = "{bullet_square} EXCLUDES LONG SLIDE"
 					"Info4"
-					"Name" = "SILENCER TYPE 2"
+					"Name" = "SILENCER MK2"
 				]
 			]
 			"Custom_ShotGun" [
@@ -6206,12 +6209,12 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} LESS RECOIL"
 					"Info3" = "{bullet_square} EXCLUDES OTHER AMMO"
 					"Info4"
-					"Name" = "LOW VELOCITY AMMO"
+					"Name" = "SUBSONIC AMMO"
 				]
 				"BoltAction" [
 					"Info1" = "{bullet_square} HIGH PRECISION"
 					"Info2" = "{bullet_square} REQUIRES LIGHT FRAME"
-					"Info3" = "{bullet_square} EXCLUDES CLIP"
+					"Info3" = "{bullet_square} EXCLUDES RAPID FIRE"
 					"Info4"
 					"Name" = "BOLT ACTION"
 				]
@@ -6220,25 +6223,25 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} HIGH PRECISION"
 					"Info3"
 					"Info4"
-					"Name" = "CARBON-FIBER BARREL"
+					"Name" = "CARBON FIBER BARREL"
 				]
 				"ClipX2" [
-					"Info1" = "{bullet_square} 1 EXTRA CLIP"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 1 EXTRA MAGAZINE"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
 				]
 				"ClipX3" [
-					"Info1" = "{bullet_square} 2 EXTRA CLIPS"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 2 EXTRA MAGAZINES"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
 				]
 				"ClipX4" [
-					"Info1" = "{bullet_square} 3 EXTRA CLIPS"
-					"Info2" = "{bullet_square} EXPANDS ALL CLIPS"
+					"Info1" = "{bullet_square} 3 EXTRA MAGAZINES"
+					"Info2" = "{bullet_square} EXPANDS ALL MAGAZINES"
 					"Info3"
 					"Info4"
 					"Name" = "EXTRA AMMO"
@@ -6248,10 +6251,10 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} EXCLUDES BOLT ACTION"
 					"Info3"
 					"Info4"
-					"Name" = "DOUBLE CAPACITY CLIP"
+					"Name" = "RAPID FIRE"
 				]
 				"Lightweight" [
-					"Info1" = "{bullet_square} LIGHTWEIGHT PARTS"
+					"Info1" = "{bullet_square} NEEDED FOR BOLT ACTION"
 					"Info2"
 					"Info3"
 					"Info4"
@@ -6260,30 +6263,30 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"ScopeType1" [
 					"Info1" = "{bullet_square} MEDIUM ZOOM"
 					"Info2" = "{bullet_square} HIGH PRECISION"
-					"Info3" = "{bullet_square} EXCLUDES OTHER SCOPES"
+					"Info3" = "{bullet_square} EXCLUDES SCOPE MK2"
 					"Info4"
-					"Name" = "SCOPE TYPE 1"
+					"Name" = "SCOPE MK1"
 				]
 				"ScopeType2" [
 					"Info1" = "{bullet_square} MAX ZOOM"
-					"Info2" = "{bullet_square} EXTREMELY PRECISE"
-					"Info3" = "{bullet_square} EXCLUDES OTHER SCOPES"
+					"Info2" = "{bullet_square} EXTREME PRECISION"
+					"Info3" = "{bullet_square} EXCLUDES SCOPE MK1"
 					"Info4"
-					"Name" = "SCOPE TYPE 2"
+					"Name" = "SCOPE MK2"
 				]
 				"Silencer1" [
 					"Info1" = "{bullet_square} MEDIUM SILENCED"
 					"Info2" = "{bullet_square} LESS DAMAGE"
-					"Info3" = "{bullet_square} EXCLUDES SILENCER TYPE2"
+					"Info3" = "{bullet_square} EXCLUDES SILENCER MK2"
 					"Info4"
-					"Name" = "SILENCER TYPE 1"
+					"Name" = "SILENCER MK1"
 				]
 				"Silencer2" [
 					"Info1" = "{bullet_square} MAX SILENCED"
 					"Info2" = "{bullet_square} LESS DAMAGE"
-					"Info3" = "{bullet_square} EXCLUDES SILENCER TYPE1"
+					"Info3" = "{bullet_square} EXCLUDES SILENCER MK1"
 					"Info4"
-					"Name" = "SILENCER TYPE 2"
+					"Name" = "SILENCER MK2"
 				]
 			]
 			"Custom_SubMachineGun" [
@@ -6292,7 +6295,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Info2" = "{bullet_square} LESS RECOIL"
 					"Info3" = "{bullet_square} EXCLUDES OTHER AMMO"
 					"Info4"
-					"Name" = "LOW VELOCITY AMMO"
+					"Name" = "SUBSONIC AMMO"
 				]
 				"AmmoMagnum" [
 					"Info1" = "{bullet_square} PENETRATES DOORS"
@@ -6395,8 +6398,8 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			]
 			"ItemUpgrades" [
 				"Adrenaline" [
-					"Info1" = "{bullet_square} A HEALTH BOOST"
-					"Info2"
+					"Info1" = "{bullet_square} RESTORES 25% HEALTH"
+					"Info2" = "{bullet_square} LASTS 2 MINUTES 30 SECONDS"
 					"Info3"
 					"Info4"
 					"Name" = "ADRENALINE"
@@ -6437,7 +6440,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Name" = "FLEXIBLE FLAK VEST"
 				]
 				"FoilPaddedSafeSuitcase" [
-					"Info1" = "{bullet_square} NON DETECTABLE"
+					"Info1" = "{bullet_square} UNDETECTABLE TO METAL DETECTORS"
 					"Info2" = "{bullet_square} FOR CUSTOM SNIPERRIFLE"
 					"Info3"
 					"Info4"
@@ -6465,14 +6468,14 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 					"Name" = "KEVLAR VEST"
 				]
 				"KeyCardScrambler" [
-					"Info1" = "{bullet_square} OPENS KEYCARD-DOORS"
+					"Info1" = "{bullet_square} BYPASSES KEYCARDS"
 					"Info2" = "{bullet_square} TAKES TIME"
 					"Info3"
 					"Info4"
-					"Name" = "KEY CARD SCRAMBLER"
+					"Name" = "KEYCARD SCRAMBLER"
 				]
 				"Painkillers" [
-					"Info1" = "{bullet_square} SMALL HEALTH BOOST"
+					"Info1" = "{bullet_square} RESTORES 50% HEALTH"
 					"Info2"
 					"Info3"
 					"Info4"
@@ -6761,11 +6764,11 @@ sweetheart."
 			"1" [
 				"Age" = "65"
 				"Hair" = "Black/Greying"
-				"Height" = "5 ft 10 in"
-				"Objective" = "Kill Joseph Clarence"
+				"Height" = "5 ft 10 in / 178 cm"
+				"Objective" = "Eliminate Joseph Clarence"
 				"ObjectiveDetail"
 				"Type" = "T"
-				"Weight" = "202 lbs"
+				"Weight" = "202 lbs / 92 kg"
 				"WhoOrWhat" = "Joseph Clarence"
 			]
 		]
@@ -7637,10 +7640,10 @@ Pull and hold the Left trigger to enter sneak." 0
 			"H03_EnterTheShop" = "Enter the Gift Shop"
 			"H04_Distraction" = "Distract the Guards"
 			"H05_GetInsideTheTheater" = "Enter the Theater"
-			"H06_PsychoBob" = "Kill the Gangster"
+			"H06_PsychoBob" = "Eliminate the Gangster"
 			"H07_Climb" = "Climb up the Red Trellis"
 			"H08_ClearTheRoom" = "Clear the Room Next Door"
-			"H09_HideTheBodies" = "Dispose of the 2 Gangsters"
+			"H09_HideTheBodies" = "Dispose of the Bodies"
 			"H10_TakeOutTheChemist" = "Take Out the Chemist"
 			"H11_EnterAtrium" = "Enter the Atrium"
 			"H12_Jump" = "Jump to the Balcony"
@@ -7653,7 +7656,7 @@ Pull and hold the Left trigger to enter sneak." 0
 			"H19_EnterGuardedDoor" = "Enter Control Room"
 			"H20_PutDownCrate" = "Put Down the Green Crate"
 			"H21_GoToTopOfElevator" = "Get On Top of the Elevator"
-			"H22_KillGuardInElevator" = "Fiberwire the Guard below"
+			"H22_KillGuardInElevator" = "Strangle the Guard below"
 			"H23_CutPower" = "Disable the Power Box"
 			"H24_DrugFactory" = "Sneak through the Factory"
 			"H25_EnterToilet" = "Enter the Toilet"
@@ -7665,9 +7668,9 @@ Pull and hold the Left trigger to enter sneak." 0
 			"H31_FindSwingKingsOffice" = "Find the Door to the Office"
 			"H32_PickUpSyringe" = "Pick Up The Syringe"
 			"H33_PushGuard" = "Push the Guard Over the Rail"
-			"H34_PoisonBottle" = "Poison Secretarys Drink"
-			"H35_EnterOffice" = "Enter Swing Kings Office"
-			"H36_KillSwingKing" = "Approach Swing King"
+			"H34_PoisonBottle" = "Poison Secretary's Drink"
+			"H35_EnterOffice" = "Enter Office"
+			"H36_KillSwingKing" = "Approach the Target"
 			"H37_ClimbOutWindow" = "Climb Out the Office Window"
 			"H38_ClimbInWindow" = "Climb in Through the Window"
 			"H39_PickUpBomb" = "Pick Up the Bomb Devices"
@@ -7680,12 +7683,12 @@ Pull and hold the Left trigger to enter sneak." 0
 			"H47_ClimbDrainPipe" = "Climb Down the Drain Pipe"
 			"H49_WaitForTheGuard" = "Wait for the Guard"
 			"H50_HideInCloset2" = "Hide in the Closet"
-			"H51_Kill_Swing_King" = "Kill Mr. Swing King"
+			"H51_Kill_Swing_King" = "Eliminate the Target"
 			"H52_Take_Chemist_Keycard" = "Take Keycard and Clothes"
 			"H53_CheckPhotoInventory" = "Check Photo in Inventory"
 			"H54_ContinueWalking" = "Continue Along the Walkway"
 			"H55_WalkUpstairs" = "Walk Upstairs"
-			"H56_TargetStillAlive" = "Swing King is Still Alive"
+			"H56_TargetStillAlive" = "Target is Still Alive"
 			"H57_JumpDown" = "Enter and Exit the Elevator"
 			"H58_CheckMap" = "Locate the Exit on the Map"
 			"H59_HideInCloset" = "Hide in the Closet"
@@ -7934,10 +7937,10 @@ Press and hold {CrouchSneak} to enter sneak."
 			"H03_EnterTheShop" = "Enter the Gift Shop"
 			"H04_Distraction" = "Distract the Guards"
 			"H05_GetInsideTheTheater" = "Enter the Theater"
-			"H06_PsychoBob" = "Kill the Gangster"
+			"H06_PsychoBob" = "Eliminate the Gangster"
 			"H07_Climb" = "Climb up the Red Trellis"
 			"H08_ClearTheRoom" = "Clear the Room Next Door"
-			"H09_HideTheBodies" = "Dispose of the 2 Gangsters"
+			"H09_HideTheBodies" = "Dispose of the Bodies"
 			"H10_TakeOutTheChemist" = "Take Out the Chemist"
 			"H11_EnterAtrium" = "Enter the Atrium"
 			"H12_Jump" = "Jump to the Balcony"
@@ -7950,7 +7953,7 @@ Press and hold {CrouchSneak} to enter sneak."
 			"H19_EnterGuardedDoor" = "Enter Control Room"
 			"H20_PutDownCrate" = "Put Down the Green Crate"
 			"H21_GoToTopOfElevator" = "Get On Top of the Elevator"
-			"H22_KillGuardInElevator" = "Fiberwire the Guard below"
+			"H22_KillGuardInElevator" = "Strangle the Guard below"
 			"H23_CutPower" = "Disable the Power Box"
 			"H24_DrugFactory" = "Sneak through the Factory"
 			"H25_EnterToilet" = "Enter the Toilet"
@@ -7962,9 +7965,9 @@ Press and hold {CrouchSneak} to enter sneak."
 			"H31_FindSwingKingsOffice" = "Find the Door to the Office"
 			"H32_PickUpSyringe" = "Pick Up The Syringe"
 			"H33_PushGuard" = "Push the Guard Over the Rail"
-			"H34_PoisonBottle" = "Poison Secretarys Drink"
-			"H35_EnterOffice" = "Enter Swing Kings Office"
-			"H36_KillSwingKing" = "Approach Swing King"
+			"H34_PoisonBottle" = "Poison Secretary's Drink"
+			"H35_EnterOffice" = "Enter Office"
+			"H36_KillSwingKing" = "Approach the Target"
 			"H37_ClimbOutWindow" = "Climb Out the Office Window"
 			"H38_ClimbInWindow" = "Climb in Through the Window"
 			"H39_PickUpBomb" = "Pick Up the Bomb Devices"
@@ -7977,12 +7980,12 @@ Press and hold {CrouchSneak} to enter sneak."
 			"H47_ClimbDrainPipe" = "Climb Down the Drain Pipe"
 			"H49_WaitForTheGuard" = "Wait for the Guard"
 			"H50_HideInCloset2" = "Hide in the Closet"
-			"H51_Kill_Swing_King" = "Kill Mr. Swing King"
+			"H51_Kill_Swing_King" = "Eliminate the Target"
 			"H52_Take_Chemist_Keycard" = "Take Keycard and Clothes"
 			"H53_CheckPhotoInventory" = "Check Photo in Inventory"
 			"H54_ContinueWalking" = "Continue Along the Walkway"
 			"H55_WalkUpstairs" = "Walk Upstairs"
-			"H56_TargetStillAlive" = "Swing King is Still Alive"
+			"H56_TargetStillAlive" = "Target is Still Alive"
 			"H57_JumpDown" = "Enter and Exit the Elevator"
 			"H58_CheckMap" = "Locate the Exit on the Map"
 			"H59_HideInCloset" = "Hide in the Closet"
