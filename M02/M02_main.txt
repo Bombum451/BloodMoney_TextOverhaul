@@ -6616,34 +6616,31 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			"1" [
 				"Age" = "71"
 				"Hair" = "Grey"
-				"Height" = "5'10\""
-				"Objective" = "Kill Lorne de Havilland"
-				"ObjectiveDetail" = "Self professed playboy, porn aficionado and American culture icon. Strip club operator, magazine magnate and born again Christian. Lorne spends most of his time in the master bedroom. Here he peruses the many videotapes surreptitiously recorded through one-way mirrors installed in all of the backroom cabins in his strip joints. Blackmailing politicians, clergymen and movie stars now provide the major bulk of his income. He occasionally throws a big party, where he mingles briefly with the guests, before retiring to his den of inequity, looking for famous people caught in the act."
+				"Height" = "5'10\" / 178 cm"
+				"Objective" = "Eliminate Lorne de Havilland"
+				"ObjectiveDetail" = "Self-professed playboy, porn aficionado, American cultural icon, strip club operator, magazine magnate and born again Christian, Lorne spends most of his time in the master bedroom, where he peruses the many video tapes surreptitiously recorded through one-way mirrors installed in all of the backroom cabins in his establishments. Blackmailing politicians, clergymen and movie stars now provides the majority of his income. He occasionally throws a big party, where he mingles briefly with the guests, before retiring to his den of inequity, looking for famous people caught in the act."
 				"Type" = "T"
-				"Weight" = "165lbs."
+				"Weight" = "165 lbs / 75 kg"
 				"WhoOrWhat" = "Lorne de Havilland"
 			]
 			"2" [
 				"Age" = "27"
 				"Hair" = "Black"
-				"Height" = "6'1\""
-				"Objective" = "Kill Chad Bingham Jr."
+				"Height" = "6'1\" / 185 cm"
+				"Objective" = "Eliminate Chad Bingham Jr."
 				"ObjectiveDetail" = "Youngest son of Senator Bingham, who had high hopes that his son Chad jr. would follow his father's footsteps. But after High school he often hung out in local bars or sleazy strip joints. And during one of his usual benders he wound up in the back of one of Lorne de Havilland's clubs with a lap dancer. One thing led to another, and to cut a long story short, the girl wound up bound, gagged and dead. And as usual, Lorne de Havilland had a camera minutely recording every sordid detail. Chad has worked up a reputation for remorselessly slapping up strippers, sometimes beyond recognition."
 				"Type" = "T"
-				"Weight" = "190lbs."
+				"Weight" = "190 lbs / 86 kg"
 				"WhoOrWhat" = "Chad Bingham Jr."
 			]
 			"3" [
 				"Objective" = "Retrieve Video tape"
-				"ObjectiveDetail" = "This video tape was filmed from a surveillance camera in one of Lorne's many brothels.
-It features a game Chad Bingham getting carried away with a girl of the trade. Chad, 
-more or less by accident suffocates the girl, leaving her with an unhealthy blue tint 
-and him in a state of panic."
+				"ObjectiveDetail" = "Compromising videos of celebrities are all the rage. This particular example concerns the Governor's son brutally molesting and murdering a prostitute - explosive material to say the least."
 				"Type" = "R"
 				"WhoOrWhat" = "Video tape"
 			]
 			"4" [
-				"Objective" = "Escape the estate"
+				"Objective" = "Locate the Exit"
 				"ObjectiveDetail" = "Escape the mountain residence."
 				"Type" = "E"
 				"WhoOrWhat" = "Escape"
