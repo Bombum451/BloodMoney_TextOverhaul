@@ -6894,25 +6894,25 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 			"1" [
 				"Age" = "45"
 				"Hair" = "Black"
-				"Height" = "5 ft 9 in"
-				"Objective" = "Kill Alvaro D'Alvade"
+				"Height" = "5'9\" / 175 cm"
+				"Objective" = "Eliminate Alvaro D'Alvade"
 				"ObjectiveDetail" = "The Italian singer lives and breathes opera, and he has a reputation of never being satisfied with his fellow actors. Alvaro strives for perfection in all things, but his single minded dedication to his art has left him with serious flaws. His temper often gets the best of him and he has developed an addiction to sex with juveniles of both sexes. He has an avid fan in the US, Ambassador Richard Delahunt, and lately the two have become almost inseparable."
 				"Type" = "T"
-				"Weight" = "145 lbs"
+				"Weight" = "145 lbs / 66 kg"
 				"WhoOrWhat" = "Alvaro D'Alvade"
 			]
 			"2" [
 				"Age" = "57"
 				"Hair" = "Brown"
-				"Height" = "6 ft 1 in"
+				"Height" = "6'1\" / 185 cm"
 				"Objective" = "Kill Richard Delahunt"
 				"ObjectiveDetail" = "Richard Delahunt is a man living on borrowed time. He is constantly surrounded by US bodyguards in tuxes and equipped with guns and earpieces. Allegedly involved in child prostitution he has created a lot of enemies, and he knows it. Presently, he spends most of his time watching his now only trusted friend Alvaro D'Alvade rehearse as the lead tenor role in Puccini's Tosca, soon to premiere at the Paris Opera. The Ambassador spends every spare moment attending these rehearsals, watching Alvaro D'Alvade's every move from his lodge, with a sordid fascination bordering on obsession."
 				"Type" = "T"
-				"Weight" = "155 lbs"
+				"Weight" = "155 lbs / 70 kg"
 				"WhoOrWhat" = "Richard Delahunt"
 			]
 			"3" [
-				"Objective" = "Escape Opera"
+				"Objective" = "Locate the Exit"
 				"ObjectiveDetail" = "Escape the opera."
 				"Type" = "E"
 				"WhoOrWhat" = "Escape"
