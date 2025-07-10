@@ -2979,13 +2979,13 @@ Note: In game saves cannot be used after exiting gameplay."
 			]
 			"CC_BaseballBat_01" [
 				"Description" = "SLUGGER - for the perfect hit."
-				"Longname" = "Slugger Baseball Bat"
+				"Longname" = "SLUGGER Baseball Bat"
 				"Shortname" = "BASEBALL BAT"
 			]
 			"CC_BaseballBat_Used_01" [
 				"Description" = "SLUGGER - for the perfect hit.
 				Covered in blood."
-				"Longname" = "Slugger Baseball Bat"
+				"Longname" = "SLUGGER Baseball Bat"
 				"Shortname" = "BASEBALL BAT"
 			]
 			"CC_FiberWire_01" [
@@ -3006,13 +3006,13 @@ Note: In game saves cannot be used after exiting gameplay."
 			]
 			"CC_Hammer_01" [
 				"Description" = "Carbon steel, rubber grip. Perfect handling for when things get messy."
-				"Longname" = "Claw Hammer"
+				"Longname" = "CLAW HAMMER"
 				"Shortname" = "HAMMER"
 			]
 			"CC_Hammer_Used_01" [
 				"Description" = "Carbon steel, rubber grip. Perfect handling for when things get messy.
 				Covered in blood."
-				"Longname" = "Claw Hammer"
+				"Longname" = "CLAW HAMMER"
 				"Shortname" = "HAMMER"
 			]
 			"CC_HedgeCutter_01" [
@@ -3032,18 +3032,18 @@ Note: In game saves cannot be used after exiting gameplay."
 				"Shortname" = "BOWIE KNIFE"
 			]
 			"CC_Knife_Kitchen_01" [
-				"Description" = "High-quality stainless steel utensil. Excellent for deep cuts"
-				"Longname" = "Kitchen knife"
+				"Description" = "High-quality stainless steel utensil. Excellent for deep cuts."
+				"Longname" = "KITCHEN KNIFE"
 				"Shortname" = "KITCHEN KNIFE"
 			]
 			"CC_Knife_Meatcleaver_01" [
-				"Description" = "High-quality stainless steel meat cleaver. Excellent for chopping."
-				"Longname" = "Meat Cleaver"
+				"Description" = "High-quality stainless steel instrument. Excellent for chopping."
+				"Longname" = "MEAT CLEAVER"
 				"Shortname" = "CLEAVER"
 			]
 			"CC_Knife_Stiletto_01" [
 				"Description" = "Solingen 420 stainless steel blade with stag horn grip."
-				"Longname" = "Stiletto"
+				"Longname" = "STILETTO"
 				"Shortname" = "STILETTO"
 			]
 			"CC_Knife_Throwing_01" [
@@ -3052,7 +3052,7 @@ Note: In game saves cannot be used after exiting gameplay."
 				"Shortname" = "THROWING KNIFE"
 			]
 			"CC_NailFile_01" [
-				"Description" = "Primarily used for filing nails. In the hands of an assassin - it is deadly"
+				"Description" = "Primarily used for filing nails. In the hands of an assassin - it is deadly."
 				"Longname" = "NAIL FILE"
 				"Shortname" = "NAIL FILE"
 			]
@@ -3073,33 +3073,34 @@ Note: In game saves cannot be used after exiting gameplay."
 				"Shortname" = "PITCHFORK"
 			]
 			"CC_Screwdriver_01" [
-				"Description" = "Primarily used for screws"
+				"Description" = "Indispensable for a handyman. With the right technique, it can be used by professionals of other varieties."
 				"Longname" = "SCREWDRIVER"
 				"Shortname" = "SCREWDRIVER"
 			]
 			"CC_Screwdriver_Used_01" [
-				"Description" = "Covered in blood"
+				"Description" = "Indispensable for a handyman. With the right technique, it can be used by professionals of other varieties.
+				Covered in blood."
 				"Longname" = "SCREWDRIVER"
 				"Shortname" = "SCREWDRIVER"
 			]
 			"CC_Shovel_01" [
-				"Description" = "Used to dig or shovel with
-Use with caution as bystanders could get hurt"
+				"Description" = "A heavy work tool that could pose a serious threat to others in the right hands."
 				"Longname" = "SHOVEL"
 				"Shortname" = "SHOVEL"
 			]
 			"CC_Shovel_Used_01" [
-				"Description" = "Covered in blood"
+				"Description" = "A heavy work tool that could pose a serious threat to others in the right hands.
+				Covered in blood."
 				"Longname" = "SHOVEL"
 				"Shortname" = "SHOVEL"
 			]
 			"CC_StunGun_01" [
-				"Description" = "By pressing the stun gun against an attacker and hold the trigger, electricity is dumped into the nervous system. This results in a temporary knockout"
+				"Description" = "Discharges electricity into the nervous system when pressed against the skin, resulting in temporarily incapacitation."
 				"Longname" = "STUN GUN"
 				"Shortname" = "STUN GUN"
 			]
 			"CC_Sword_Cane_01" [
-				"Description" = "Used by gentlemen or women, this smooth looking cane hides a sharp sword and turns them into vicious monsters at a blink of an eye."
+				"Description" = "A smooth-looking cane hiding a sharp sword inside."
 				"Longname" = "CANE SWORD"
 				"Shortname" = "CANE SWORD"
 			]
@@ -3109,18 +3110,17 @@ Use with caution as bystanders could get hurt"
 				"Shortname" = "SEDATIVE SYRINGE"
 			]
 			"CC_Syringe_Antidote_01" [
-				"Description" = "The antidote to the non-lethal experimental death serum."
+				"Description" = "The antidote to the experimental non-lethal death serum."
 				"Longname" = "Antidote Syringe"
 				"Shortname" = "ANTIDOTE"
 			]
 			"CC_Syringe_HeartAttack_01" [
-				"Description" = "Contains a non-lethal experimental serum, designed to drastically slow the recipient’s heartbeat and bodily functions, resulting in a form of human hibernation."
+				"Description" = "Contains a non-lethal experimental serum, designed to drastically slow the recipient's heartbeat and bodily functions, resulting in a form of human hibernation."
 				"Longname" = "Death Serum Syringe"
 				"Shortname" = "DEATH SERUM"
 			]
 			"CC_Syringe_Laxative_01" [
-				"Description" = "Stainless steel surgical syringe. Contains non-lethal laxative that stimulates the action of the intestines in eliminating waste from the body.
-				Once administered, a toilet will come in handy."
+				"Description" = "Stainless steel surgical syringe. Contains non-lethal laxative that stimulates the action of the intestines in eliminating waste from the body. Once administered, a toilet will come in handy."
 				"Longname" = "Laxative Syringe"
 				"Shortname" = "LAXATIVE"
 			]
@@ -3144,12 +3144,12 @@ Use with caution as bystanders could get hurt"
 				"Shortname" = "BRIEFCASE"
 			]
 			"Container_Briefcase_Afrikaner_01" [
-				"Description" = "Steel reinforced briefcase. Contains valuable DNA and accompanying lab reports. There appears to be enough room inside to place an additional item."
-				"Longname" = "Briefcase containg DNA"
+				"Description" = "Steel-reinforced briefcase. Contains valuable DNA and accompanying lab reports. There appears to be enough room inside to place an additional item."
+				"Longname" = "Briefcase with DNA"
 				"Shortname" = "DNA BRIEFCASE"
 			]
 			"Container_Briefcase_Diamonds_01" [
-				"Description" = "Steel reinforced briefcase. Contains a large quantity of diamonds. There appears to be enough room inside to place an additional item."
+				"Description" = "Steel-reinforced briefcase. Contains a large quantity of diamonds. There appears to be enough room inside to place an additional item."
 				"Longname" = "Briefcase with Diamonds"
 				"Shortname" = "PAYMENT BRIEFCASE"
 			]
@@ -3159,7 +3159,7 @@ Use with caution as bystanders could get hurt"
 				"Shortname" = "PAYMENT BRIEFCASE"
 			]
 			"Container_BucketChicken_01" [
-				"Description" = "Crocodiles are hungry animals."
+				"Description" = "Crocodiles are hungry, meat-eating animals."
 				"LongName" = "CHICKEN BUCKET"
 				"ShortName" = "CHICKEN BUCKET"
 			]
@@ -3174,7 +3174,7 @@ Use with caution as bystanders could get hurt"
 				"ShortName" = "SODA CRATE"
 			]
 			"Container_CrateCatering_01" [
-				"Description" = "These crates are being delivered to the house by the caterer. A gun could be easily hidden inside."
+				"Description" = "Crates being delivered to the house by the caterer. A gun could easily be put inside."
 				"LongName" = "CATERING CRATE"
 				"ShortName" = "CATERING CRATE"
 			]
@@ -3938,22 +3938,21 @@ snapshots of scantily clad ladies."
 				"Shortname" = "KEVLAR VEST"
 			]
 			"Item_VHSCassette_01" [
-				"Description" = "Compromising videos of celebrities are all the rage. This particular example contains the Governor's son brutally molesting and killing a working girl, this is 
-explosive material to say the least."
-				"Longname" = "Videotape"
-				"Shortname" = "VIDEOTAPE"
+				"Description" = "A video tape filmed from a surveillance camera in one of Lorne's many brothels, featuring Chad Bingham, more or less by accident, suffocating a prostitute, leaving her with an unhealthy blue tint and himself in a state of panic."
+				"Longname" = "Compromising Video tape"
+				"Shortname" = "VIDEO TAPE"
 			]
 			"Item_VHSCassette_01old" [
 				"Longname" = "VHS Video Cassette"
 				"Shortname" = "VHS CASSETTE"
 			]
 			"Item_WalkieTalkie_01" [
-				"Description" = "Walkie Talkie used as primary communication source between the \"Birds\""
+				"Description" = "The primary means of communication between the \"Birds\"."
 				"Longname" = "Walkie Talkie"
 				"Shortname" = "WALKIE TALKIE"
 			]
 			"Item_WardrobeTicket_01" [
-				"Description" = "This ticket can be given to the guy in the wardrobe. He has a jacket for you there...."
+				"Description" = "A ticket that can be used to retrieve a jacket reserved for you by the Agency."
 				"Longname" = "Wardrobe Ticket"
 				"Shortname" = "WARDROBE TICKET"
 			]
