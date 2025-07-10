@@ -6484,7 +6484,7 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 	"FMVSubtitles" [
 		"DateOnAvi" [
 			"M00_Star" = "January 9, 2004"
-			"M01_Inte" = "Present day"
+			"M01_Inte" = "Present Day"
 			"M01_Star" = "February 28, 2004"
 			"M02_Star" = "December 24, 2004"
 			"M03_Star" = "March 17, 2004"
@@ -6499,20 +6499,20 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 		]
 		"M00_Intro" [
 			"1225-1355" = "This just in — unconfirmed reports of an accident at Southland Park."
-			"1463-1543" = "..hundreds of family members gathered outside..."
-			"1546-1609" = "...rising death toll of yesterday’s amusement park disaster..."
-			"1609-1830" = "...according to County Officials, who’ve ordered the park closed pending a full investigation of the park’s safety.."
-			"1829-1935" = "...authorities report at least thirty deaths and close..."
-			"1943-2075" = "...five years since the tragedy closed the gates of Southland Park, but new evidence..."
-			"2079-2135" = "...is claiming malicious prosecution, and believes.."
-			"2145-2215" = "...says he’s spent every penny of his fortune..."
-			"2218-2450" = "...the so-called “Legal Eagles” dream team defending Southland Park owner Joseph Clarence,"
-			"2465-2585" = "...and the victims’ families have vowed to appeal the decision.."
+			"1463-1543" = "... hundreds of family members gathered outside..."
+			"1546-1609" = "... rising death toll of yesterday’s amusement park disaster..."
+			"1609-1830" = "... according to County Officials, who’ve ordered the park closed pending a full investigation of the park’s safety..."
+			"1829-1935" = "... authorities report at least 30 deaths and close..."
+			"1943-2075" = "... 5 years since the tragedy closed the gates of Southland Park, but new evidence..."
+			"2079-2135" = "... is claiming malicious prosecution, and believes.."
+			"2145-2215" = "... says he’s spent every penny of his fortune..."
+			"2218-2450" = "... the so-called “Legal Eagles” dream team defending Southland Park owner Joseph Clarence-"
+			"2465-2585" = "... and the victims’ families have vowed to appeal the decision.."
 			"2593-2635" = "Verdict of not guilty!"
 			"2643-2665" = "Cleared of all charges!"
 			"2948-3030" = "Come have a cup of tea, hon?"
 			"3060-3153" = "Sitting in the dark won’t bring him back, sweetheart."
-			"3405-3480" = "I’d like to place an order …"
+			"3405-3480" = "I would like to place an order."
 		]
 		"M01_Interview" [
 			"1181-1196" = "Yeah?"
