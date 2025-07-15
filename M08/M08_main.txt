@@ -6635,20 +6635,20 @@ X Y Z A Á B C Ç D E É F G H I Í J K L M N Ñ O Ó P Q R S T U Ú Ü V W X Y 
 				"Age" = "41"
 				"Hair" = "Black"
 				"Height" = "6'2 ft"
-				"Objective" = "Kill Skip Muldoon"
-				"ObjectiveDetail" = "Skip is a portly and surly bastard from a small Tennessee town with 100.000 people - and only 12 last names. He is running a tourist attraction on the Mississippi, the old paddle steamer \"Emily\", which works as a nice cover for the Boat Gang's drug smuggling operations. He's a proud captain of this old steamer, and makes sure that it's in tiptop shape and polished up. He has a relationship with all the VIP waiters who take turns at being his \"bitch\". He has a very sweet tooth and has a passion for cakes with a lot of whipped cream."
+				"Objective" = "Eliminate Skip Muldoon"
+				"ObjectiveDetail" = "Mr. Skip is the inbred captain and owner of the steamboat \"Emily\", a Mississipi tourist attraction that also serves as a convenient cover for the Gator gang's drug smuggling operations. Though of age, the ship is Muldoon's pride, and so is kept in very good condition. He is in a relationship with all the VIP waiters, who take turns at being his \"bitch\". Muldoon has a sweet tooth and a particular affinity for cakes with an excessive amount of whipped cream."
 				"Type" = "T"
 				"Weight" = "345 lb"
 				"WhoOrWhat" = "Skip Muldoon"
 			]
 			"2" [
-				"Objective" = "Kill the Gator Gang (0/6)"
-				"Objective1of6" = "Kill the Gator Gang (1/6)"
-				"Objective2of6" = "Kill the Gator Gang (2/6)"
-				"Objective3of6" = "Kill the Gator Gang (3/6)"
-				"Objective4of6" = "Kill the Gator Gang (4/6)"
-				"Objective5of6" = "Kill the Gator Gang (5/6)"
-				"Objective6of6" = "Kill the Gator Gang (6/6)"
+				"Objective" = "Eliminate the Gator Gang (0/6)"
+				"Objective1of6" = "Eliminate the Gator Gang (1/6)"
+				"Objective2of6" = "Eliminate the Gator Gang (2/6)"
+				"Objective3of6" = "Eliminate the Gator Gang (3/6)"
+				"Objective4of6" = "Eliminate the Gator Gang (4/6)"
+				"Objective5of6" = "Eliminate the Gator Gang (5/6)"
+				"Objective6of6" = "Eliminate the Gator Gang (6/6)"
 				"ObjectiveDetail" = "Everett Jefferson
 Junior O'Daniel
 William  S. Corfitz
